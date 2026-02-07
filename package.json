@@ -1,0 +1,21 @@
+{
+  "name": "ai-102-study",
+  "version": "1.0.0",
+  "description": "Azure AI-102 Certification Study App",
+  "scripts": {
+    "dev": "next dev -p 3102",
+    "build": "next build",
+    "start": "next start -p 3102",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.0",
+    "@types/react": "18.2.0",
+    "typescript": "5.3.3"
+  }
+}
